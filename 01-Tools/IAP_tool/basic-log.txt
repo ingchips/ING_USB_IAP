@@ -1,0 +1,270 @@
+[2024-09-13 17:58:29.938] [basic_logger] [info] main initializing...
+[2024-09-13 17:58:29.939] [basic_logger] [info] Log system OK
+[2024-09-13 17:58:29.939] [basic_logger] [info] LoadSettings OK
+[2024-09-13 17:58:29.957] [basic_logger] [info] LoadBinGenINI OK
+[2024-09-13 17:58:30.064] [basic_logger] [info] InitUSBDeviceTree OK
+[2024-09-13 17:58:58.797] [basic_logger] [info] main initializing...
+[2024-09-13 17:58:58.798] [basic_logger] [info] Log system OK
+[2024-09-13 17:58:58.798] [basic_logger] [info] LoadSettings OK
+[2024-09-13 17:58:58.813] [basic_logger] [info] LoadBinGenINI OK
+[2024-09-13 17:58:58.907] [basic_logger] [info] InitUSBDeviceTree OK
+[2024-09-13 18:09:40.292] [basic_logger] [info] main initializing...
+[2024-09-13 18:09:40.292] [basic_logger] [info] Log system OK
+[2024-09-13 18:09:40.292] [basic_logger] [info] LoadSettings OK
+[2024-09-13 18:09:40.307] [basic_logger] [info] LoadBinGenINI OK
+[2024-09-13 18:09:40.401] [basic_logger] [info] InitUSBDeviceTree OK
+[2024-11-20 16:01:54.820] [basic_logger] [info] main initializing...
+[2024-11-20 16:01:54.821] [basic_logger] [info] Log system OK
+[2024-11-20 16:01:54.821] [basic_logger] [info] LoadSettings OK
+[2024-11-20 16:01:54.837] [basic_logger] [info] LoadBinGenINI OK
+[2024-11-20 16:01:54.930] [basic_logger] [info] InitUSBDeviceTree OK
+[2024-11-20 16:44:48.012] [basic_logger] [info] main initializing...
+[2024-11-20 16:44:48.014] [basic_logger] [info] Log system OK
+[2024-11-20 16:44:48.014] [basic_logger] [info] LoadSettings OK
+[2024-11-20 16:44:48.028] [basic_logger] [info] LoadBinGenINI OK
+[2024-11-20 16:44:48.120] [basic_logger] [info] InitUSBDeviceTree OK
+[2024-11-23 11:06:25.138] [basic_logger] [info] main initializing...
+[2024-11-23 11:06:25.139] [basic_logger] [info] Log system OK
+[2024-11-23 11:06:25.139] [basic_logger] [info] LoadSettings OK
+[2024-11-23 11:06:25.154] [basic_logger] [info] LoadBinGenINI OK
+[2024-11-23 11:06:25.243] [basic_logger] [info] InitUSBDeviceTree OK
+[2024-11-23 13:53:19.704] [basic_logger] [info] main initializing...
+[2024-11-23 13:53:19.705] [basic_logger] [info] Log system OK
+[2024-11-23 13:53:19.706] [basic_logger] [info] LoadSettings OK
+[2024-11-23 13:53:19.728] [basic_logger] [info] LoadBinGenINI OK
+[2024-11-23 13:53:19.832] [basic_logger] [info] InitUSBDeviceTree OK
+[2024-11-23 13:53:19.704] [basic_logger] [info] main initializing...
+[2024-11-23 13:53:19.705] [basic_logger] [info] Log system OK
+[2024-11-23 13:53:19.706] [basic_logger] [info] LoadSettings OK
+[2024-11-23 13:53:19.729] [basic_logger] [info] LoadBinGenINI OK
+[2024-11-23 13:53:19.771] [basic_logger] [info] InitUSBDeviceTree OK
+[2024-11-23 14:00:27.490] [basic_logger] [info] main initializing...
+[2024-11-23 14:00:27.491] [basic_logger] [info] Log system OK
+[2024-11-23 14:00:27.491] [basic_logger] [info] LoadSettings OK
+[2024-11-23 14:00:27.513] [basic_logger] [info] LoadBinGenINI OK
+[2024-11-23 14:00:27.612] [basic_logger] [info] InitUSBDeviceTree OK
+[2024-11-23 15:04:16.383] [basic_logger] [info] main initializing...
+[2024-11-23 15:04:16.384] [basic_logger] [info] Log system OK
+[2024-11-23 15:04:16.384] [basic_logger] [info] LoadSettings OK
+[2024-11-23 15:04:16.406] [basic_logger] [info] LoadBinGenINI OK
+[2024-11-23 15:04:16.505] [basic_logger] [info] InitUSBDeviceTree OK
+[2024-11-25 10:15:58.072] [basic_logger] [info] main initializing...
+[2024-11-25 10:15:58.073] [basic_logger] [info] Log system OK
+[2024-11-25 10:15:58.073] [basic_logger] [info] LoadSettings OK
+[2024-11-25 10:15:58.089] [basic_logger] [info] LoadBinGenINI OK
+[2024-11-25 10:15:58.190] [basic_logger] [info] InitUSBDeviceTree OK
+[2024-11-25 10:16:23.660] [basic_logger] [info] main initializing...
+[2024-11-25 10:16:23.661] [basic_logger] [info] Log system OK
+[2024-11-25 10:16:23.661] [basic_logger] [info] LoadSettings OK
+[2024-11-25 10:16:23.679] [basic_logger] [info] LoadBinGenINI OK
+[2024-11-25 10:16:23.775] [basic_logger] [info] InitUSBDeviceTree OK
+[2024-11-25 10:15:24.200] [basic_logger] [info] main initializing...
+[2024-11-25 10:15:24.200] [basic_logger] [info] Log system OK
+[2024-11-25 10:15:24.201] [basic_logger] [info] LoadSettings OK
+[2024-11-25 10:15:24.251] [basic_logger] [info] LoadBinGenINI OK
+[2024-11-25 10:15:24.356] [basic_logger] [info] InitUSBDeviceTree OK
+[2024-11-25 11:16:43.110] [basic_logger] [info] main initializing...
+[2024-11-25 11:16:43.111] [basic_logger] [info] Log system OK
+[2024-11-25 11:16:43.111] [basic_logger] [info] LoadSettings OK
+[2024-11-25 11:16:43.128] [basic_logger] [info] LoadBinGenINI OK
+[2024-11-25 11:16:43.219] [basic_logger] [info] InitUSBDeviceTree OK
+[2024-11-25 11:15:58.335] [basic_logger] [info] main initializing...
+[2024-11-25 11:15:58.336] [basic_logger] [info] Log system OK
+[2024-11-25 11:15:58.336] [basic_logger] [info] LoadSettings OK
+[2024-11-25 11:15:58.356] [basic_logger] [info] LoadBinGenINI OK
+[2024-11-25 11:15:58.453] [basic_logger] [info] InitUSBDeviceTree OK
+[2024-11-25 11:31:54.076] [basic_logger] [info] main initializing...
+[2024-11-25 11:31:54.077] [basic_logger] [info] Log system OK
+[2024-11-25 11:31:54.077] [basic_logger] [info] LoadSettings OK
+[2024-11-25 11:31:54.092] [basic_logger] [info] LoadBinGenINI OK
+[2024-11-25 11:31:54.187] [basic_logger] [info] InitUSBDeviceTree OK
+[2024-11-25 11:56:29.484] [basic_logger] [info] main initializing...
+[2024-11-25 11:56:29.484] [basic_logger] [info] Log system OK
+[2024-11-25 11:56:29.485] [basic_logger] [info] LoadSettings OK
+[2024-11-25 11:56:29.499] [basic_logger] [info] LoadBinGenINI OK
+[2024-11-25 11:56:29.590] [basic_logger] [info] InitUSBDeviceTree OK
+[2024-11-25 11:57:36.417] [basic_logger] [info] main initializing...
+[2024-11-25 11:57:36.418] [basic_logger] [info] Log system OK
+[2024-11-25 11:57:36.418] [basic_logger] [info] LoadSettings OK
+[2024-11-25 11:57:36.439] [basic_logger] [info] LoadBinGenINI OK
+[2024-11-25 11:57:36.475] [basic_logger] [info] InitUSBDeviceTree OK
+[2024-11-25 11:57:36.389] [basic_logger] [info] main initializing...
+[2024-11-25 11:57:36.390] [basic_logger] [info] Log system OK
+[2024-11-25 11:57:36.390] [basic_logger] [info] LoadSettings OK
+[2024-11-25 11:57:36.408] [basic_logger] [info] LoadBinGenINI OK
+[2024-11-25 11:57:36.508] [basic_logger] [info] InitUSBDeviceTree OK
+[2024-11-25 15:25:31.710] [basic_logger] [info] main initializing...
+[2024-11-25 15:25:31.711] [basic_logger] [info] Log system OK
+[2024-11-25 15:25:31.711] [basic_logger] [info] LoadSettings OK
+[2024-11-25 15:25:31.756] [basic_logger] [info] LoadBinGenINI OK
+[2024-11-25 15:25:31.863] [basic_logger] [info] InitUSBDeviceTree OK
+[2024-11-25 15:27:22.006] [basic_logger] [info] main initializing...
+[2024-11-25 15:27:22.007] [basic_logger] [info] Log system OK
+[2024-11-25 15:27:22.007] [basic_logger] [info] LoadSettings OK
+[2024-11-25 15:27:22.021] [basic_logger] [info] LoadBinGenINI OK
+[2024-11-25 15:27:22.122] [basic_logger] [info] InitUSBDeviceTree OK
+[2024-11-26 11:18:56.516] [basic_logger] [info] main initializing...
+[2024-11-26 11:18:56.517] [basic_logger] [info] Log system OK
+[2024-11-26 11:18:56.517] [basic_logger] [info] LoadSettings OK
+[2024-11-26 11:18:56.533] [basic_logger] [info] LoadBinGenINI OK
+[2024-11-26 11:18:56.637] [basic_logger] [info] InitUSBDeviceTree OK
+[2024-11-26 11:19:04.986] [basic_logger] [info] main initializing...
+[2024-11-26 11:19:04.987] [basic_logger] [info] Log system OK
+[2024-11-26 11:19:04.987] [basic_logger] [info] LoadSettings OK
+[2024-11-26 11:19:05.001] [basic_logger] [info] LoadBinGenINI OK
+[2024-11-26 11:19:05.092] [basic_logger] [info] InitUSBDeviceTree OK
+[2024-11-27 15:45:05.789] [basic_logger] [info] main initializing...
+[2024-11-27 15:45:05.790] [basic_logger] [info] Log system OK
+[2024-11-27 15:45:05.790] [basic_logger] [info] LoadSettings OK
+[2024-11-27 15:45:05.807] [basic_logger] [info] LoadBinGenINI OK
+[2024-11-27 15:45:05.898] [basic_logger] [info] InitUSBDeviceTree OK
+[2024-11-28 14:54:22.089] [basic_logger] [info] main initializing...
+[2024-11-28 14:54:22.089] [basic_logger] [info] Log system OK
+[2024-11-28 14:54:22.089] [basic_logger] [info] LoadSettings OK
+[2024-11-28 14:54:22.105] [basic_logger] [info] LoadBinGenINI OK
+[2024-11-28 14:54:22.196] [basic_logger] [info] InitUSBDeviceTree OK
+[2024-11-28 15:52:03.489] [basic_logger] [info] main initializing...
+[2024-11-28 15:52:03.491] [basic_logger] [info] Log system OK
+[2024-11-28 15:52:03.492] [basic_logger] [info] LoadSettings OK
+[2024-11-28 15:52:03.537] [basic_logger] [info] LoadBinGenINI OK
+[2024-11-28 15:52:03.619] [basic_logger] [info] InitUSBDeviceTree OK
+[2024-11-28 15:49:38.320] [basic_logger] [info] main initializing...
+[2024-11-28 15:49:38.320] [basic_logger] [info] Log system OK
+[2024-11-28 15:49:38.320] [basic_logger] [info] LoadSettings OK
+[2024-11-28 15:49:38.337] [basic_logger] [info] LoadBinGenINI OK
+[2024-11-28 15:49:38.427] [basic_logger] [info] InitUSBDeviceTree OK
+[2024-11-28 15:52:03.451] [basic_logger] [info] main initializing...
+[2024-11-28 15:52:03.454] [basic_logger] [info] Log system OK
+[2024-11-28 15:52:03.455] [basic_logger] [info] LoadSettings OK
+[2024-11-28 15:52:03.499] [basic_logger] [info] LoadBinGenINI OK
+[2024-11-28 15:52:03.641] [basic_logger] [info] InitUSBDeviceTree OK
+[2024-11-28 16:26:19.775] [basic_logger] [info] main initializing...
+[2024-11-28 16:26:19.776] [basic_logger] [info] Log system OK
+[2024-11-28 16:26:19.776] [basic_logger] [info] LoadSettings OK
+[2024-11-28 16:26:19.799] [basic_logger] [info] LoadBinGenINI OK
+[2024-11-28 16:26:19.845] [basic_logger] [info] InitUSBDeviceTree OK
+[2024-11-28 16:16:18.728] [basic_logger] [info] main initializing...
+[2024-11-28 16:16:18.729] [basic_logger] [info] Log system OK
+[2024-11-28 16:16:18.729] [basic_logger] [info] LoadSettings OK
+[2024-11-28 16:16:18.751] [basic_logger] [info] LoadBinGenINI OK
+[2024-11-28 16:16:18.853] [basic_logger] [info] InitUSBDeviceTree OK
+[2024-11-28 16:26:19.775] [basic_logger] [info] main initializing...
+[2024-11-28 16:26:19.776] [basic_logger] [info] Log system OK
+[2024-11-28 16:26:19.776] [basic_logger] [info] LoadSettings OK
+[2024-11-28 16:26:19.799] [basic_logger] [info] LoadBinGenINI OK
+[2024-11-28 16:26:19.906] [basic_logger] [info] InitUSBDeviceTree OK
+[2024-11-28 16:26:40.124] [basic_logger] [info] main initializing...
+[2024-11-28 16:26:40.125] [basic_logger] [info] Log system OK
+[2024-11-28 16:26:40.125] [basic_logger] [info] LoadSettings OK
+[2024-11-28 16:26:40.141] [basic_logger] [info] LoadBinGenINI OK
+[2024-11-28 16:26:40.243] [basic_logger] [info] InitUSBDeviceTree OK
+[2024-11-28 16:26:30.912] [basic_logger] [info] main initializing...
+[2024-11-28 16:26:30.912] [basic_logger] [info] Log system OK
+[2024-11-28 16:26:30.912] [basic_logger] [info] LoadSettings OK
+[2024-11-28 16:26:30.928] [basic_logger] [info] LoadBinGenINI OK
+[2024-11-28 16:26:31.024] [basic_logger] [info] InitUSBDeviceTree OK
+[2024-11-28 16:29:04.309] [basic_logger] [info] main initializing...
+[2024-11-28 16:29:04.310] [basic_logger] [info] Log system OK
+[2024-11-28 16:29:04.310] [basic_logger] [info] LoadSettings OK
+[2024-11-28 16:29:04.329] [basic_logger] [info] LoadBinGenINI OK
+[2024-11-28 16:29:04.442] [basic_logger] [info] InitUSBDeviceTree OK
+[2024-11-28 17:09:24.000] [basic_logger] [info] main initializing...
+[2024-11-28 17:09:24.001] [basic_logger] [info] Log system OK
+[2024-11-28 17:09:24.001] [basic_logger] [info] LoadSettings OK
+[2024-11-28 17:09:24.017] [basic_logger] [info] LoadBinGenINI OK
+[2024-11-28 17:09:24.110] [basic_logger] [info] InitUSBDeviceTree OK
+[2024-11-28 17:12:16.266] [basic_logger] [info] main initializing...
+[2024-11-28 17:12:16.267] [basic_logger] [info] Log system OK
+[2024-11-28 17:12:16.267] [basic_logger] [info] LoadSettings OK
+[2024-11-28 17:12:16.282] [basic_logger] [info] LoadBinGenINI OK
+[2024-11-28 17:12:16.372] [basic_logger] [info] InitUSBDeviceTree OK
+[2024-12-02 15:39:56.930] [basic_logger] [info] main initializing...
+[2024-12-02 15:39:56.931] [basic_logger] [info] Log system OK
+[2024-12-02 15:39:56.932] [basic_logger] [info] LoadSettings OK
+[2024-12-02 15:39:56.962] [basic_logger] [info] LoadBinGenINI OK
+[2024-12-02 15:39:57.068] [basic_logger] [info] InitUSBDeviceTree OK
+[2024-12-02 15:40:43.085] [basic_logger] [info] main initializing...
+[2024-12-02 15:40:43.086] [basic_logger] [info] Log system OK
+[2024-12-02 15:40:43.086] [basic_logger] [info] LoadSettings OK
+[2024-12-02 15:40:43.099] [basic_logger] [info] LoadBinGenINI OK
+[2024-12-02 15:40:43.195] [basic_logger] [info] InitUSBDeviceTree OK
+[2024-12-06 17:37:33.357] [basic_logger] [info] main initializing...
+[2024-12-06 17:37:33.358] [basic_logger] [info] Log system OK
+[2024-12-06 17:37:33.358] [basic_logger] [info] LoadSettings OK
+[2024-12-06 17:37:33.376] [basic_logger] [info] LoadBinGenINI OK
+[2024-12-06 17:37:33.467] [basic_logger] [info] InitUSBDeviceTree OK
+[2024-12-06 17:43:19.077] [basic_logger] [info] main initializing...
+[2024-12-06 17:43:19.078] [basic_logger] [info] Log system OK
+[2024-12-06 17:43:19.078] [basic_logger] [info] LoadSettings OK
+[2024-12-06 17:43:19.096] [basic_logger] [info] LoadBinGenINI OK
+[2024-12-06 17:43:19.189] [basic_logger] [info] InitUSBDeviceTree OK
+[2024-12-06 17:57:59.476] [basic_logger] [info] main initializing...
+[2024-12-06 17:57:59.477] [basic_logger] [info] Log system OK
+[2024-12-06 17:57:59.477] [basic_logger] [info] LoadSettings OK
+[2024-12-06 17:57:59.502] [basic_logger] [info] LoadBinGenINI OK
+[2024-12-06 17:57:59.605] [basic_logger] [info] InitUSBDeviceTree OK
+[2024-12-06 17:56:53.077] [basic_logger] [info] main initializing...
+[2024-12-06 17:56:53.078] [basic_logger] [info] Log system OK
+[2024-12-06 17:56:53.078] [basic_logger] [info] LoadSettings OK
+[2024-12-06 17:56:53.095] [basic_logger] [info] LoadBinGenINI OK
+[2024-12-06 17:56:53.190] [basic_logger] [info] InitUSBDeviceTree OK
+[2024-12-06 17:59:17.431] [basic_logger] [info] main initializing...
+[2024-12-06 17:59:17.432] [basic_logger] [info] Log system OK
+[2024-12-06 17:59:17.432] [basic_logger] [info] LoadSettings OK
+[2024-12-06 17:59:17.447] [basic_logger] [info] LoadBinGenINI OK
+[2024-12-06 17:59:17.540] [basic_logger] [info] InitUSBDeviceTree OK
+[2024-12-06 17:59:41.701] [basic_logger] [info] main initializing...
+[2024-12-06 17:59:41.702] [basic_logger] [info] Log system OK
+[2024-12-06 17:59:41.702] [basic_logger] [info] LoadSettings OK
+[2024-12-06 17:59:41.717] [basic_logger] [info] LoadBinGenINI OK
+[2024-12-06 17:59:41.808] [basic_logger] [info] InitUSBDeviceTree OK
+[2025-03-24 16:44:52.249] [basic_logger] [info] main initializing...
+[2025-03-24 16:44:52.251] [basic_logger] [info] Log system OK
+[2025-03-24 16:44:52.251] [basic_logger] [info] LoadSettings OK
+[2025-03-24 16:44:52.268] [basic_logger] [info] LoadBinGenINI OK
+[2025-03-24 16:44:52.361] [basic_logger] [info] InitUSBDeviceTree OK
+[2025-03-24 16:13:31.507] [basic_logger] [info] main initializing...
+[2025-03-24 16:13:31.508] [basic_logger] [info] Log system OK
+[2025-03-24 16:13:31.509] [basic_logger] [info] LoadSettings OK
+[2025-03-24 16:13:31.574] [basic_logger] [info] LoadBinGenINI OK
+[2025-03-24 16:13:31.692] [basic_logger] [info] InitUSBDeviceTree OK
+[2025-03-25 14:45:28.213] [basic_logger] [info] main initializing...
+[2025-03-25 14:45:28.214] [basic_logger] [info] Log system OK
+[2025-03-25 14:45:28.214] [basic_logger] [info] LoadSettings OK
+[2025-03-25 14:45:28.236] [basic_logger] [info] LoadBinGenINI OK
+[2025-03-25 14:45:28.335] [basic_logger] [info] InitUSBDeviceTree OK
+[2025-12-04 15:05:33.565] [basic_logger] [info] main initializing...
+[2025-12-04 15:05:33.566] [basic_logger] [info] Log system OK
+[2025-12-04 15:05:33.567] [basic_logger] [info] LoadSettings OK
+[2025-12-04 15:05:33.624] [basic_logger] [info] LoadBinGenINI OK
+[2025-12-04 15:05:33.738] [basic_logger] [info] InitUSBDeviceTree OK
+[2025-12-04 16:05:03.331] [basic_logger] [info] main initializing...
+[2025-12-04 16:05:03.333] [basic_logger] [info] Log system OK
+[2025-12-04 16:05:03.333] [basic_logger] [info] LoadSettings OK
+[2025-12-04 16:05:03.352] [basic_logger] [info] LoadBinGenINI OK
+[2025-12-04 16:05:03.447] [basic_logger] [info] InitUSBDeviceTree OK
+[2025-12-04 16:09:15.116] [basic_logger] [info] main initializing...
+[2025-12-04 16:09:15.118] [basic_logger] [info] Log system OK
+[2025-12-04 16:09:15.118] [basic_logger] [info] LoadSettings OK
+[2025-12-04 16:09:15.146] [basic_logger] [info] LoadBinGenINI OK
+[2025-12-04 16:09:15.251] [basic_logger] [info] InitUSBDeviceTree OK
+[2025-12-04 16:13:53.610] [basic_logger] [info] main initializing...
+[2025-12-04 16:13:53.611] [basic_logger] [info] Log system OK
+[2025-12-04 16:13:53.611] [basic_logger] [info] LoadSettings OK
+[2025-12-04 16:13:53.631] [basic_logger] [info] LoadBinGenINI OK
+[2025-12-04 16:13:53.729] [basic_logger] [info] InitUSBDeviceTree OK
+[2025-12-04 16:14:03.582] [basic_logger] [info] main initializing...
+[2025-12-04 16:14:03.583] [basic_logger] [info] Log system OK
+[2025-12-04 16:14:03.583] [basic_logger] [info] LoadSettings OK
+[2025-12-04 16:14:03.599] [basic_logger] [info] LoadBinGenINI OK
+[2025-12-04 16:14:03.699] [basic_logger] [info] InitUSBDeviceTree OK
+[2025-12-04 16:16:48.375] [basic_logger] [info] main initializing...
+[2025-12-04 16:16:48.376] [basic_logger] [info] Log system OK
+[2025-12-04 16:16:48.376] [basic_logger] [info] LoadSettings OK
+[2025-12-04 16:16:48.393] [basic_logger] [info] LoadBinGenINI OK
+[2025-12-04 16:16:48.491] [basic_logger] [info] InitUSBDeviceTree OK
+[2025-12-04 16:17:05.226] [basic_logger] [info] main initializing...
+[2025-12-04 16:17:05.227] [basic_logger] [info] Log system OK
+[2025-12-04 16:17:05.227] [basic_logger] [info] LoadSettings OK
+[2025-12-04 16:17:05.247] [basic_logger] [info] LoadBinGenINI OK
+[2025-12-04 16:17:05.345] [basic_logger] [info] InitUSBDeviceTree OK

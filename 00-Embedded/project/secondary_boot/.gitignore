@@ -1,0 +1,14 @@
+/listing
+/output
+*.dep
+*.uvgui.*
+*.uvguix.*
+
+/.vscode
+/logs
+
+*.un~
+*.swp
+*.bak
+*.bin
+JLink*

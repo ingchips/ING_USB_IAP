@@ -1,0 +1,28 @@
+/listing
+/output
+*.dep
+*.uvgui.*
+*.uvguix.*
+
+/.vscode
+/logs
+
+*.un~
+*.swp
+*.bak
+*.bin
+JLink*
+
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+
+all.log
+setting.ini
