@@ -10,7 +10,6 @@
 *.un~
 *.swp
 *.bak
-*.bin
 JLink*
 
 .idea/
